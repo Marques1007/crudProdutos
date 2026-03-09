@@ -1,0 +1,20 @@
+inteligg
+plugins 
+atom material icons
+dracula theme
+
+reticias
+seetins
+apperancex behavior
+apperance
+dracula
+
+depois criou os pacotes
+* antes deletou o main criado automaticamente intelig
+application
+controllers
+entities
+factories
+respositories
+sql
+
