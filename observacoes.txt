@@ -12,9 +12,47 @@ dracula
 depois criou os pacotes
 * antes deletou o main criado automaticamente intelig
 application
+criar javaclass Main System.out.println("\nSISTEMA DE CONTROLE DE PRODUTOS:\n");
 controllers
 entities
 factories
 respositories
 sql
 
+sout=syso(eclip)
+
+github
+new
+nome crudProdutos
+descricao 
+Projeto Java local para cadastro, consulta, edição e exclusão de produtos.
+create repository
+
+para salvar o projeto no github a partir do intellig
+terminal
+git init (enter=e)
+git branch -m main
+git add . (vai tudo)
+git commit -m 'versão inicial'
+*copiar o comando abaixo lá na página do github
+git remote add origin https://github.com/Marques1007/crudProdutos.git
+git push origin main (se aparecer janela clicar no azul)
+
+entrar no pg4admin
+criar banco de dados
+bdprodutos
+criamos file schema.sql no pacote sql com script de criacao da tabela 
+executar o schema.sql no query tools
+
+* alt+enter para importar localdatetime intelig
+
+
+*criamos a java class Produto em entities com
+ os campos e geters and seters
+
+
+* void não retorna nada
+
+criamos o produtorepository
+
+criamos a produtocontroller
