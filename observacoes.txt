@@ -56,3 +56,6 @@ executar o schema.sql no query tools
 criamos o produtorepository
 
 criamos a produtocontroller
+
+criamos os métodos create update 
+
